@@ -1,0 +1,126 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper{
+	padding: 40px 0px 0px 40px;
+	background-image: url(./resourses/background.png);
+	background-color: rgba(31, 39, 50, 0.8);
+	background-blend-mode: darken;
+}
+
+.headerButton{
+	font-family: Outfit;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 35px;
+	text-align: center;
+	color: rgba(255, 255, 255, 1.0);
+	letter-spacing: 0.4px;
+	margin: 0px 0px 0px 1000px;
+	background: rgba(255, 255, 255, 0.1);
+	border: 1px solid rgba(255, 255, 255, 0.1);
+	border-radius: 0px;
+	height: 85px;
+	weight: 350px;
+}
+
+.header{
+	color: white;
+	font-size: 65px;
+	font-family: 'Cormorant Garamond';
+	font-style: normal;
+	font-weight: 400;
+	line-height: 78px;
+	letter-spacing: 0.4px;
+}
+
+.goldText{
+	font-family: Outfit;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 40px;
+	letter-spacing: 0.4px;
+	color: #D1B06B;
+}
+
+.goldButton{
+	background: #D1B06B;
+	height: 85px;
+	width: 269px;
+	border: 1px solid #D1B06B;
+	border-radius: 0px;
+	font-family: Outfit;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 35px;
+	text-align: center;
+	letter-spacing: 0.4px;
+	color: #1F2732;
+}
+
+.menu{
+	border-top: 1px solid rgba(255, 255, 255, 0.1);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.menuItem{
+	font-family: Outfit;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 22px;
+	line-height: 35px;
+	letter-spacing: 0.4px;
+	display: inline-block;
+	color: white;
+	text-align: center;
+	margin-top: 45px;
+	margin-right: 46px;
+	margin-bottom: 49px;
+}
+
+p > a{
+	text-decoration-line: none;
+	color: white;
+}
+
+.button{
+	color: #D1B06B;
+}
+
+nav > div{
+	margin-left: 300px;
+}
+
+nav > div > img{
+	display: inline-block;
+}
+
+img > div{
+	display: inline-block;
+}
+
+.inString{
+	display: inline-block;
+}
+
+.block{
+	display:inline-block;
+}
+
+.picture{
+	display:inline-block;
+	margin-left: 400px;
+}
+
+.white{
+	color: white;
+}
+
+.gold-color{
+	color: #D1B06B;
+}
